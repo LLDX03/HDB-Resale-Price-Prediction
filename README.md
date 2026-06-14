@@ -80,7 +80,7 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-## 🧠 How the Project Works — Plain English
+## 🧠 How the Project Works 
 
 ### Step 1: Load the Data
 We load a CSV file of real HDB resale transactions. Each row is one transaction and contains details like the town, flat type, floor area, floor level, remaining lease, and the price it sold for. We check for missing values and understand the shape of the data before doing anything else.
