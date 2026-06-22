@@ -11,6 +11,19 @@ The HDB Resale Price Prediction project represents how I approach self-directed 
 
 As AI continues to evolve, the ability to code every line manually matters less than understanding the logic behind what you are building. A developer who can clearly define a problem, break it into steps, and direct AI toward the right solution is more valuable than one who simply writes syntax. This project reflects that belief. I did not just prompt for working code, I prompted for specific features I knew users would need, like future price projection, because I thought about the problem from a user's perspective. That instinct came from a personal place. I started this project wanting to learn machine learning, but also wanting a concrete estimate of where HDB prices might be in ten years so I could begin planning my own finances. The best projects, I have found, are the ones where you are also the user.
 
+## 📸 Screenshots
+
+**Input Form**
+![Input](docs/input.png)
+
+**Prediction Result**
+![Result](docs/result.png)
+
+**5-Year Price Projection**
+![Projection](docs/projection.png)
+
+---
+
 ## 📌 Project Summary
 
 | Item | Detail |
