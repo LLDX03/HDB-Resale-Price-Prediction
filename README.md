@@ -29,7 +29,7 @@ As AI continues to evolve, the ability to code every line manually matters less 
 | Item | Detail |
 |------|--------|
 | **Goal** | Predict HDB resale prices using machine learning |
-| **Data** | 8,000 HDB resale transactions, 2017–2024 (data.gov.sg) |
+| **Data** | HDB resale transactions, 2017–2024 (data.gov.sg) |
 | **Towns covered** | 24 HDB towns across Singapore |
 | **Price range in data** | S$202,000 – S$2,014,000 |
 | **Best model** | Random Forest Regressor |
